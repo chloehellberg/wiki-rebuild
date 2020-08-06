@@ -1,0 +1,30 @@
+#welcome-row {
+  padding-right: 0px;
+  padding-left: 0px;
+  height:  max-content;
+  
+}
+
+#welcome-row col-md-6{
+  
+}
+
+#card-welcome{
+  border: 0px;
+  background-color: silver;
+  
+}
+.welcome-title{
+  float: left;
+}
+.nav-items{
+  float: right;
+}
+#left h2{
+  color: brown;
+}
+#right h2{
+  color: red;
+}
+
+
